@@ -1,1 +1,1 @@
-web: gunicorn app:Drug-Review-Sentiment-Analysis-api
+web: gunicorn app:Youtube-Comments-Sentiment-Analysis-api
